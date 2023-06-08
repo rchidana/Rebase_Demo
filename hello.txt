@@ -1,3 +1,5 @@
+Some changes as part of Feature1
+
 Demo file
 
 With some contents in it.....
